@@ -1,7 +1,7 @@
 # Titanic Survival Prediction
 
 A machine learning classification project that predicts whether a passenger survived the
-Titanic disaster.
+Titanic disaster based on passenger information
 
 ## Project Overview
 
