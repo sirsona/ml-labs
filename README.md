@@ -4,7 +4,6 @@ This repository contains multiple end_to_end machine learning project implement 
 
 
 ## How to Run
-1. Clone the repository
 ```bash
 
 git clone https://github.com/sirsona/ml-labs
